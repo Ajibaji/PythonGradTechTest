@@ -6,5 +6,7 @@ lib/
 .pytest_cache/
 
 # Files:
-./pip-selfcheck.json
-./DS_Store
+pip-selfcheck.json
+DS_Store
+.gitignore
+.Python
